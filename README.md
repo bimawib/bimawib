@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bimawib
-- 👀 I’m interested in web development and automation especially arduino
+- 👀 I’m interested in web development and instrumet automation (especially arduino)
 - 🌱 I’m currently learning backend web development
 
 <!---
