@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bimawib
 - 👀 I’m interested in web development and instrumet automation (especially arduino)
-- 🌱 I’m currently learning backend web development
+- 🌱 I’m currently learning backend web development with PHP framework laravel
 
 <!---
 bimawib/bimawib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
