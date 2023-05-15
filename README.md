@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @bimawib
-- 👀 I’m interested in backend web development and instrumentation with embedded system (arduino)
-- 🌱 I’m currently learning backend web development with PHP framework laravel and node.js and looking for a job/internship opportunity in the future
+Web Developer (Laravel, Node.js, Vue)
 
 <!---
 bimawib/bimawib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
