@@ -1,4 +1,4 @@
-Web Developer (Laravel, Node.js)
+Full Stack Developer (Laravel, NodeJS, VueJS)
 
 <!---
 bimawib/bimawib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
